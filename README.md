@@ -2,8 +2,8 @@
 - 👀  .........................
 - 🌱 
     Members:
-            1. Toney Bracewell  5334
-            2. Irent Dorbor     4265
+            1. Toney Bracewell  5334 \n
+            2. Irent Dorbor     4265 \n
             3. Wilkin Torbor    4287
             4. George Borwah    4115
             5. Hilary Davis     4591
